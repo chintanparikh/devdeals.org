@@ -173,6 +173,7 @@ Table of Contents
 ## Search
   * [Algolia](https://www.algolia.com/industries-and-solutions/startups/?utm_source=devdeals&tf_subject=devdeals.org&tf_description=N/A) - Search-as-a-Service platform. $10,000 in credits valid for 1 year with ```DEVDEALS```.
 ## Security & compliance
+  * [Secureframe](https://secureframe.com/offer/carta) - All-in-one security and privacy compliance platform. 25% off annual subscription.
   * [Drata](https://go.drata.com/carta) - SOC 2 and ISO 27001 compliance. 25% off annual subscription with ```CARTA```.
   * [Laika](https://heylaika.com/partners/carta) - Automations and workflow tools. 25% off annual with ```CARTA```.
   * [NightFall](https://nightfall.ai/startups/?utm_source=devdeals&utm_medium=partner) - Cloud native data protection. 25% off first year with ```DEVDEALS```.
